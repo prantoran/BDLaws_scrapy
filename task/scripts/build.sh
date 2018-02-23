@@ -1,0 +1,1 @@
+source lawscrap/bin/activate
